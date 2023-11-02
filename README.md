@@ -1,5 +1,7 @@
 # **SummarizeAI**
 
+![SummarizeAi](./public/summarizeai.png)
+
 ## **Introduction**
 
 SummarizeAI is a simple web application designed to summarize articles and make them easier to read. Built using **React** and **Redux**, the application integrates with the **GPT-4 API** to provide real-time text summarization. Users can simply paste a link to an article or a body of text, and the application will generate a concise summary, saving time and effort.
